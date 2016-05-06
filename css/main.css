@@ -1,0 +1,64 @@
+body {
+	font-family: sans-serif;
+	text-align:center;
+
+}
+
+
+.inputArea{
+	
+	width: 20%;
+	padding: 5% 5% 1% 5%;
+
+	margin:auto;
+
+	display: block;
+
+}
+
+h1{
+	font-size: 1.5em;
+}
+.comentArea{
+	
+	width: 20%;
+	padding: 1% 5% 5% 5%;
+	border-bottom-right-radius: 5%;
+	border-bottom-left-radius:5%;
+	background-color: #fff;
+	margin:auto;
+	display: block;
+}
+
+#userName{
+	
+	border:solid 1px blue;
+	border-radius: 4px;
+	display: block;
+	margin-bottom: 1%;
+	width:90%;
+	padding: 2%;
+	
+}
+#userComent{
+	border:solid 1px blue;
+	border-radius: 4px;
+	display: block;
+	margin-bottom: 1%;
+	width:90%;
+	padding: 2%;
+}
+
+#coment{
+	text-decoration: none;
+}
+
+#listItem{
+	position: relative;
+	list-style-type: none;
+	text-align:left;
+	font-size:20px;
+	border:solid 1px blue;
+	width: 90%;
+	margin: auto;
+}
